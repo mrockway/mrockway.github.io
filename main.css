@@ -1,0 +1,93 @@
+body {
+	background-color: rgba(42,122,140, 0.58);
+	background-image: url("http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/square_bg.png");
+	color: #063540;
+	font-family: 'Source Sans Pro', sans-serif;
+	margin-top: 20px;
+}
+
+a {
+	color: #403D3A;
+}
+
+.well {
+	border: 1px solid #999999;
+}
+
+.selfie {
+	border-radius: 50%;
+	width: 80%;
+}
+
+.btn {
+	background-color: #176273;
+	margin-bottom: 10px;
+}
+
+.project-button {
+	width: 49%;
+}
+
+.btn a {
+	color: #E5D9CF;
+}
+
+.btn-side {
+	width: 100%;
+}
+
+ul { 
+	list-style-type: none;
+}
+
+.tab-list {
+	display: inline;
+	padding: 5px;
+}
+
+.contact {
+	font-size: 20px;
+}
+
+.menu-icon {
+	font-size: 25px;
+}
+
+.table {
+	background-color: #FFFFFF;
+}
+
+.dates {
+	font-size: 15px;
+}
+
+.project-screenshot {
+	width: 100%;
+}
+
+.iphone-screenshot {
+	max-height: 500px;
+}
+
+.back-button {
+	background-color: #176273;
+}
+
+@media (min-width:992px) {
+
+	.sidebar {
+		position: fixed;
+	}
+	
+	#navbar {
+		border-radius: 4px;
+	}
+	
+	.project-nav {
+		width:25%;
+	}
+	
+	.links {
+		width: 100%;
+	}
+}
